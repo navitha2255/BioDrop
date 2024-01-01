@@ -1,0 +1,20 @@
+{
+"name":"navitha kotakonda (text)",
+  "displayStatsPublic":true,
+  "type":"personsl",
+  "bio":"iam a frontend developer",
+  "avatar":https://github.com/navitha2255.png",
+  "links":[ 
+    { "name":"follow me on twitter",
+      "url":https://twitter.com/navitha",
+      "icon":"FaTwitter"
+    },
+    {
+      "name":"follow me on github",
+      "url":"https://github.com/navitha2255",
+      "icon":"FaGithubbAlt'
+    }
+  ]
+}
+
+  
